@@ -1,5 +1,5 @@
 # volviz
-A Volatility Index Visualization Tool, very rudimentary
+A Volatility Index Visualization Tool for the Implied Volatility (Variance Swap) Curve
 
 ## Results
 Since this was a very small research project, the resutls are as found below. These were generated on ``08 May 2020``.
