@@ -20,7 +20,6 @@ for fn in files:
                 date_dict.update({line[1]: 0})
             else:
                 date_dict.update({line[1]: max(list(date_dict.values())) + 1})
-                
         di = date_dict[line[1]]
 
         dp.update({di: float(line[2])})
