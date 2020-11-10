@@ -10,7 +10,7 @@ The frontside view is taking the angle of looking at the VIX Futures Calendar Cu
 ![FrontsideVIX](https://i.imgur.com/hG6k18i.png)
 
 ### Back Side View
-The backside view is the same as the frontside view except taking a look at the historical side, prior to the large hump from the March 2020 "CoronaCrash", in this picture, you are able to see the steap increase in volatility prior to an eventual bottom resulting in volatility decreasing as seen.
+The backside view is the same as the frontside view except taking a look at the historical side, prior to the large hump from the March 2020 "CoronaCrash", in this picture, you are able to see the steep increase in volatility prior to an eventual bottom resulting in volatility decreasing as seen.
 
 ![BacksideVIX](https://i.imgur.com/u36Oc0j.png)
 
